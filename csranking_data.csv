@@ -1,0 +1,368 @@
+,field,time_period,ranking,university_name,score,faculty,image_url
+0,all,2000,1,University of Toronto,11.6,31,/assets/uoft.jpeg
+1,all,2000,2,University of Alberta,5.4,22,/assets/alberta.jpeg
+2,all,2000,3,University of Waterloo,5.1,18,/assets/waterloo.jpeg
+3,all,2000,4,University of Montreal,3.4,12,/assets/umontreal.jpeg
+4,all,2000,5,University of British Columbia,3.1,12,/assets/ubc.jpeg
+5,all,2000,6,Simon Fraser University,2.8,12,/assets/sfu.jpeg
+6,all,2000,7,University of Calgary,1.8,5,/assets/ucalgary.jpeg
+7,all,2000,7,York University,1.8,6,/assets/york.jpeg
+8,all,2000,9,McGill University,1.7,3,/assets/mcgill.webp
+9,all,2000,10,University of Guelph,1.6,7,/assets/guelph.jpeg
+10,all,2000,11,University of Saskatchewan,1.5,1,/assets/usask.jpeg
+11,all,2000,12,Concordia University,1.4,6,/assets/concordia.jpeg
+12,all,2000,12,Université Laval,1.4,3,/assets/ulaval.jpeg
+13,all,2000,12,Western University,1.4,4,/assets/western.jpeg
+14,all,2000,15,Carleton University,1.3,4,/assets/carleton.jpeg
+15,all,2000,15,Dalhousie University,1.3,2,/assets/dalhousie.jpeg
+16,all,2000,15,Queen’s University,1.3,2,/assets/queens.jpeg
+17,all,2000,15,Toronto Metropolitan University,1.3,2,
+18,all,2000,15,University of Ottawa,1.3,3,/assets/uottawa.jpeg
+19,all,2000,15,Université de Sherbrooke,1.3,3,
+20,all,2000,21,ETS Montreal,1.2,4,/assets/etsmontreal.avif
+21,all,2000,21,Memorial University of Newfoundland,1.2,1,
+22,all,2000,21,Ontario Tech University,1.2,1,
+23,all,2000,21,Royal Military College of Canada,1.2,1,
+24,all,2000,25,University of New Brunswick,1.1,1,
+25,all,2000,25,University of Windsor,1.1,1,
+26,all,2000,27,University of Manitoba,1.0,1,/assets/umanitoba.jpeg
+27,all,2000,27,University of Victoria,1.0,1,/assets/uvic.jpeg
+28,all,2000,27,Université du Québec à Montréal,1.0,1,
+29,ai,2000,1,University of Alberta,32.7,18,/assets/alberta.jpeg
+30,ai,2000,2,University of British Columbia,15.9,6,/assets/ubc.jpeg
+31,ai,2000,3,University of Toronto,12.7,10,/assets/uoft.jpeg
+32,ai,2000,4,Simon Fraser University,9.4,5,/assets/sfu.jpeg
+33,ai,2000,5,University of Waterloo,8.3,9,/assets/waterloo.jpeg
+34,ai,2000,6,Carleton University,2.8,3,/assets/carleton.jpeg
+35,ai,2000,6,McGill University,2.8,1,/assets/mcgill.webp
+36,ai,2000,8,Concordia University,2.4,3,/assets/concordia.jpeg
+37,ai,2000,9,Toronto Metropolitan University,2.3,1,
+38,ai,2000,10,University of Montreal,2.0,1,/assets/umontreal.jpeg
+39,ai,2000,10,York University,2.0,1,/assets/york.jpeg
+40,ai,2000,12,Memorial University of Newfoundland,1.8,1,
+41,ai,2000,13,Dalhousie University,1.7,2,/assets/dalhousie.jpeg
+42,ai,2000,14,University of Calgary,1.5,1,/assets/ucalgary.jpeg
+43,ai,2000,14,University of Guelph,1.5,1,/assets/guelph.jpeg
+44,ai,2000,16,University of Ottawa,1.3,1,/assets/uottawa.jpeg
+45,ai,2000,16,Université Laval,1.3,1,/assets/ulaval.jpeg
+46,ai,2000,16,Western University,1.3,1,/assets/western.jpeg
+47,ai,2000,19,University of Saskatchewan,1.2,1,/assets/usask.jpeg
+48,ai,2000,20,Université de Sherbrooke,1.1,1,
+49,ai,2000,20,Université du Québec à Montréal,1.1,1,
+50,cv,2000,1,University of Toronto,30.0,6,/assets/uoft.jpeg
+51,cv,2000,2,University of Waterloo,13.9,5,/assets/waterloo.jpeg
+52,cv,2000,3,York University,9.8,5,/assets/york.jpeg
+53,cv,2000,4,McGill University,8.0,3,/assets/mcgill.webp
+54,cv,2000,5,University of Alberta,7.2,4,/assets/alberta.jpeg
+55,cv,2000,6,Simon Fraser University,6.0,6,/assets/sfu.jpeg
+56,cv,2000,7,University of Montreal,5.7,5,/assets/umontreal.jpeg
+57,cv,2000,8,University of British Columbia,5.4,3,/assets/ubc.jpeg
+58,cv,2000,9,Université de Sherbrooke,3.5,2,
+59,cv,2000,10,Ontario Tech University,2.5,1,
+60,cv,2000,10,University of Guelph,2.5,2,/assets/guelph.jpeg
+61,cv,2000,12,University of Calgary,2.3,1,/assets/ucalgary.jpeg
+62,cv,2000,13,University of Ottawa,2.0,1,/assets/uottawa.jpeg
+63,cv,2000,14,ETS Montreal,1.9,3,/assets/etsmontreal.avif
+64,cv,2000,15,Toronto Metropolitan University,1.8,1,
+65,cv,2000,16,Western University,1.6,2,/assets/western.jpeg
+66,cv,2000,17,University of Windsor,1.5,1,
+67,cv,2000,18,Université Laval,1.3,1,/assets/ulaval.jpeg
+68,ml,2000,1,University of Alberta,22.6,6,/assets/alberta.jpeg
+69,ml,2000,2,University of Toronto,13.2,8,/assets/uoft.jpeg
+70,ml,2000,3,University of Montreal,11.6,5,/assets/umontreal.jpeg
+71,ml,2000,4,University of Waterloo,4.0,4,/assets/waterloo.jpeg
+72,ml,2000,5,Université Laval,3.8,1,/assets/ulaval.jpeg
+73,ml,2000,6,Western University,3.0,2,/assets/western.jpeg
+74,ml,2000,7,Dalhousie University,2.5,1,/assets/dalhousie.jpeg
+75,ml,2000,7,University of Guelph,2.5,2,/assets/guelph.jpeg
+76,ml,2000,9,Royal Military College of Canada,2.3,1,
+77,ml,2000,10,Concordia University,2.0,2,/assets/concordia.jpeg
+78,ml,2000,10,University of Calgary,2.0,1,/assets/ucalgary.jpeg
+79,ml,2000,10,University of New Brunswick,2.0,1,
+80,ml,2000,13,University of British Columbia,1.9,3,/assets/ubc.jpeg
+81,ml,2000,14,Memorial University of Newfoundland,1.5,1,
+82,ml,2000,14,York University,1.5,1,/assets/york.jpeg
+83,ml,2000,16,ETS Montreal,1.3,1,/assets/etsmontreal.avif
+84,irnlp,2000,1,University of Toronto,4.9,8,/assets/uoft.jpeg
+85,irnlp,2000,2,University of Waterloo,3.8,4,/assets/waterloo.jpeg
+86,irnlp,2000,3,University of Montreal,3.3,5,/assets/umontreal.jpeg
+87,irnlp,2000,4,University of Alberta,2.2,4,/assets/alberta.jpeg
+88,irnlp,2000,5,Simon Fraser University,2.0,1,/assets/sfu.jpeg
+89,irnlp,2000,6,University of Ottawa,1.4,2,/assets/uottawa.jpeg
+90,irnlp,2000,7,Concordia University,1.2,1,/assets/concordia.jpeg
+91,irnlp,2000,7,Dalhousie University,1.2,1,/assets/dalhousie.jpeg
+92,irnlp,2000,7,University of British Columbia,1.2,1,/assets/ubc.jpeg
+93,irnlp,2000,7,University of Saskatchewan,1.2,1,/assets/usask.jpeg
+94,hci,2000,1,University of Toronto,19.6,9,/assets/uoft.jpeg
+95,hci,2000,2,University of Saskatchewan,5.4,1,/assets/usask.jpeg
+96,hci,2000,3,University of Calgary,4.7,2,/assets/ucalgary.jpeg
+97,hci,2000,4,Queen’s University,3.9,2,/assets/queens.jpeg
+98,hci,2000,5,University of British Columbia,3.6,3,/assets/ubc.jpeg
+99,hci,2000,6,University of Waterloo,2.7,3,/assets/waterloo.jpeg
+100,hci,2000,7,Simon Fraser University,2.1,1,/assets/sfu.jpeg
+101,hci,2000,7,University of Guelph,2.1,2,/assets/guelph.jpeg
+102,hci,2000,9,Carleton University,1.5,1,/assets/carleton.jpeg
+103,hci,2000,10,University of Manitoba,1.3,1,/assets/umanitoba.jpeg
+104,hci,2000,10,University of Victoria,1.3,1,/assets/uvic.jpeg
+105,all,2010,1,University of Toronto,15.6,48,/assets/uoft.jpeg
+106,all,2010,2,University of Waterloo,13.1,28,/assets/waterloo.jpeg
+107,all,2010,3,University of Alberta,8.4,35,/assets/alberta.jpeg
+108,all,2010,4,University of British Columbia,8.2,29,/assets/ubc.jpeg
+109,all,2010,5,Simon Fraser University,6.3,21,/assets/sfu.jpeg
+110,all,2010,6,University of Montreal,4.9,13,/assets/umontreal.jpeg
+111,all,2010,7,Carleton University,3.1,5,/assets/carleton.jpeg
+112,all,2010,8,McGill University,2.4,10,/assets/mcgill.webp
+113,all,2010,9,Concordia University,2.2,7,/assets/concordia.jpeg
+114,all,2010,9,Université Laval,2.2,7,/assets/ulaval.jpeg
+115,all,2010,11,University of Guelph,2.1,5,/assets/guelph.jpeg
+116,all,2010,11,York University,2.1,11,/assets/york.jpeg
+117,all,2010,13,University of Calgary,1.8,9,/assets/ucalgary.jpeg
+118,all,2010,14,Dalhousie University,1.7,7,/assets/dalhousie.jpeg
+119,all,2010,15,Queen’s University,1.6,4,/assets/queens.jpeg
+120,all,2010,15,University of Ottawa,1.6,5,/assets/uottawa.jpeg
+121,all,2010,15,University of Saskatchewan,1.6,3,/assets/usask.jpeg
+122,all,2010,18,ETS Montreal,1.5,6,/assets/etsmontreal.avif
+123,all,2010,18,University of Manitoba,1.5,4,/assets/umanitoba.jpeg
+124,all,2010,18,University of Victoria,1.5,3,/assets/uvic.jpeg
+125,all,2010,18,Western University,1.5,2,/assets/western.jpeg
+126,all,2010,22,University of New Brunswick,1.4,3,
+127,all,2010,22,Université de Sherbrooke,1.4,5,
+128,all,2010,24,Toronto Metropolitan University,1.3,2,
+129,all,2010,24,Université du Québec à Montréal,1.3,5,
+130,all,2010,26,Ontario Tech University,1.2,2,
+131,all,2010,27,Memorial University of Newfoundland,1.1,1,
+132,all,2010,28,Polytechnique Montreal,1.0,1,
+133,all,2010,28,University of Regina,1.0,1,
+134,ai,2010,1,University of Alberta,50.0,24,/assets/alberta.jpeg
+135,ai,2010,2,University of Toronto,19.1,14,/assets/uoft.jpeg
+136,ai,2010,3,University of Waterloo,19.0,12,/assets/waterloo.jpeg
+137,ai,2010,4,University of British Columbia,14.8,9,/assets/ubc.jpeg
+138,ai,2010,5,Simon Fraser University,11.7,8,/assets/sfu.jpeg
+139,ai,2010,6,Carleton University,8.2,2,/assets/carleton.jpeg
+140,ai,2010,7,Université Laval,6.4,4,/assets/ulaval.jpeg
+141,ai,2010,8,University of Montreal,4.9,4,/assets/umontreal.jpeg
+142,ai,2010,9,McGill University,4.6,4,/assets/mcgill.webp
+143,ai,2010,10,Toronto Metropolitan University,3.3,1,
+144,ai,2010,11,Western University,2.8,2,/assets/western.jpeg
+145,ai,2010,12,Université de Sherbrooke,2.1,3,
+146,ai,2010,13,Concordia University,1.8,2,/assets/concordia.jpeg
+147,ai,2010,14,University of Calgary,1.7,1,/assets/ucalgary.jpeg
+148,ai,2010,15,University of Ottawa,1.6,2,/assets/uottawa.jpeg
+149,ai,2010,16,ETS Montreal,1.5,1,/assets/etsmontreal.avif
+150,ai,2010,16,Queen’s University,1.5,1,/assets/queens.jpeg
+151,ai,2010,16,University of New Brunswick,1.5,1,
+152,ai,2010,19,University of Regina,1.3,1,
+153,ai,2010,19,York University,1.3,1,/assets/york.jpeg
+154,ai,2010,21,Memorial University of Newfoundland,1.2,1,
+155,ai,2010,22,Université du Québec à Montréal,1.1,1,
+156,cv,2010,1,University of Toronto,21.9,9,/assets/uoft.jpeg
+157,cv,2010,2,York University,20.9,7,/assets/york.jpeg
+158,cv,2010,3,Simon Fraser University,18.8,7,/assets/sfu.jpeg
+159,cv,2010,4,University of Waterloo,18.0,4,/assets/waterloo.jpeg
+160,cv,2010,5,University of British Columbia,9.2,6,/assets/ubc.jpeg
+161,cv,2010,6,University of Alberta,8.4,6,/assets/alberta.jpeg
+162,cv,2010,7,Concordia University,7.7,3,/assets/concordia.jpeg
+163,cv,2010,8,University of Guelph,6.9,3,/assets/guelph.jpeg
+164,cv,2010,9,University of Montreal,5.9,5,/assets/umontreal.jpeg
+165,cv,2010,10,ETS Montreal,5.4,4,/assets/etsmontreal.avif
+166,cv,2010,11,McGill University,3.5,2,/assets/mcgill.webp
+167,cv,2010,12,Université Laval,2.5,1,/assets/ulaval.jpeg
+168,cv,2010,13,Université de Sherbrooke,2.4,3,
+169,cv,2010,14,University of Ottawa,2.2,2,/assets/uottawa.jpeg
+170,cv,2010,15,Ontario Tech University,2.1,1,
+171,cv,2010,16,Carleton University,2.0,1,/assets/carleton.jpeg
+172,cv,2010,17,University of Calgary,1.5,1,/assets/ucalgary.jpeg
+173,cv,2010,18,Toronto Metropolitan University,1.3,1,
+174,ml,2010,1,University of Alberta,37.7,12,/assets/alberta.jpeg
+175,ml,2010,2,University of Montreal,19.2,8,/assets/umontreal.jpeg
+176,ml,2010,3,University of Toronto,15.7,18,/assets/uoft.jpeg
+177,ml,2010,4,University of British Columbia,11.4,9,/assets/ubc.jpeg
+178,ml,2010,5,University of Waterloo,11.3,7,/assets/waterloo.jpeg
+179,ml,2010,6,Université Laval,7.5,3,/assets/ulaval.jpeg
+180,ml,2010,7,Carleton University,7.0,1,/assets/carleton.jpeg
+181,ml,2010,8,Western University,3.6,2,/assets/western.jpeg
+182,ml,2010,9,Concordia University,3.5,2,/assets/concordia.jpeg
+183,ml,2010,10,University of Guelph,3.1,2,/assets/guelph.jpeg
+184,ml,2010,11,York University,2.4,3,/assets/york.jpeg
+185,ml,2010,12,University of Victoria,2.3,1,/assets/uvic.jpeg
+186,ml,2010,13,McGill University,2.0,3,/assets/mcgill.webp
+187,ml,2010,14,Université du Québec à Montréal,1.7,2,
+188,ml,2010,15,Dalhousie University,1.6,1,/assets/dalhousie.jpeg
+189,ml,2010,16,Simon Fraser University,1.3,1,/assets/sfu.jpeg
+190,ml,2010,16,Université de Sherbrooke,1.3,1,
+191,ml,2010,18,Polytechnique Montreal,1.1,1,
+192,irnlp,2010,1,University of Waterloo,10.0,7,/assets/waterloo.jpeg
+193,irnlp,2010,2,University of Toronto,6.0,9,/assets/uoft.jpeg
+194,irnlp,2010,3,University of Montreal,4.8,4,/assets/umontreal.jpeg
+195,irnlp,2010,4,Simon Fraser University,4.7,6,/assets/sfu.jpeg
+196,irnlp,2010,4,University of British Columbia,4.7,7,/assets/ubc.jpeg
+197,irnlp,2010,6,University of Alberta,4.2,8,/assets/alberta.jpeg
+198,irnlp,2010,7,University of Ottawa,2.4,2,/assets/uottawa.jpeg
+199,irnlp,2010,8,McGill University,2.2,2,/assets/mcgill.webp
+200,irnlp,2010,9,Dalhousie University,1.8,2,/assets/dalhousie.jpeg
+201,irnlp,2010,10,Carleton University,1.7,2,/assets/carleton.jpeg
+202,irnlp,2010,10,Queen’s University,1.7,1,/assets/queens.jpeg
+203,irnlp,2010,12,University of New Brunswick,1.5,1,
+204,irnlp,2010,12,Université du Québec à Montréal,1.5,2,
+205,irnlp,2010,14,Concordia University,1.4,2,/assets/concordia.jpeg
+206,irnlp,2010,15,Ontario Tech University,1.2,1,
+207,irnlp,2010,15,University of Calgary,1.2,1,/assets/ucalgary.jpeg
+208,irnlp,2010,15,University of Saskatchewan,1.2,1,/assets/usask.jpeg
+209,irnlp,2010,18,ETS Montreal,1.1,1,/assets/etsmontreal.avif
+210,irnlp,2010,18,Memorial University of Newfoundland,1.1,1,
+211,irnlp,2010,18,York University,1.1,1,/assets/york.jpeg
+212,hci,2010,1,University of Toronto,60.3,14,/assets/uoft.jpeg
+213,hci,2010,2,University of Saskatchewan,12.8,3,/assets/usask.jpeg
+214,hci,2010,2,University of Waterloo,12.8,11,/assets/waterloo.jpeg
+215,hci,2010,4,University of Manitoba,11.2,4,/assets/umanitoba.jpeg
+216,hci,2010,5,Simon Fraser University,9.4,5,/assets/sfu.jpeg
+217,hci,2010,6,University of British Columbia,8.7,8,/assets/ubc.jpeg
+218,hci,2010,7,University of Calgary,8.6,7,/assets/ucalgary.jpeg
+219,hci,2010,8,University of Guelph,4.3,3,/assets/guelph.jpeg
+220,hci,2010,9,Dalhousie University,4.2,5,/assets/dalhousie.jpeg
+221,hci,2010,9,Queen’s University,4.2,2,/assets/queens.jpeg
+222,hci,2010,11,University of Victoria,4.1,2,/assets/uvic.jpeg
+223,hci,2010,12,Carleton University,2.8,2,/assets/carleton.jpeg
+224,hci,2010,13,University of New Brunswick,2.2,1,
+225,hci,2010,14,Concordia University,1.3,1,/assets/concordia.jpeg
+226,hci,2010,14,University of Alberta,1.3,1,/assets/alberta.jpeg
+227,hci,2010,16,McGill University,1.2,1,/assets/mcgill.webp
+228,hci,2010,16,York University,1.2,1,/assets/york.jpeg
+229,all,2020,1,University of Toronto,24.3,66,/assets/uoft.jpeg
+230,all,2020,2,University of Waterloo,19.8,49,/assets/waterloo.jpeg
+231,all,2020,3,University of British Columbia,12.5,35,/assets/ubc.jpeg
+232,all,2020,4,Simon Fraser University,11.3,36,/assets/sfu.jpeg
+233,all,2020,5,University of Alberta,9.9,36,/assets/alberta.jpeg
+234,all,2020,6,University of Montreal,7.2,20,/assets/umontreal.jpeg
+235,all,2020,7,McGill University,4.7,17,/assets/mcgill.webp
+236,all,2020,8,York University,3.5,13,/assets/york.jpeg
+237,all,2020,9,Carleton University,3.2,8,/assets/carleton.jpeg
+238,all,2020,10,University of Ottawa,2.9,8,/assets/uottawa.jpeg
+239,all,2020,11,Université Laval,2.6,11,/assets/ulaval.jpeg
+240,all,2020,12,University of Manitoba,2.5,8,/assets/umanitoba.jpeg
+241,all,2020,13,University of Guelph,2.4,7,/assets/guelph.jpeg
+242,all,2020,14,Queen’s University,2.3,5,/assets/queens.jpeg
+243,all,2020,15,ETS Montreal,2.2,10,/assets/etsmontreal.avif
+244,all,2020,16,Dalhousie University,2.1,9,/assets/dalhousie.jpeg
+245,all,2020,17,Concordia University,1.9,6,/assets/concordia.jpeg
+246,all,2020,17,University of Victoria,1.9,10,/assets/uvic.jpeg
+247,all,2020,19,Polytechnique Montreal,1.7,3,
+248,all,2020,19,University of Calgary,1.7,11,/assets/ucalgary.jpeg
+249,all,2020,21,University of Saskatchewan,1.6,2,/assets/usask.jpeg
+250,all,2020,21,Western University,1.6,4,/assets/western.jpeg
+251,all,2020,23,McMaster University,1.5,4,
+252,all,2020,23,University of New Brunswick,1.5,3,
+253,all,2020,23,Université du Québec à Montréal,1.5,8,
+254,all,2020,26,University of Regina,1.4,6,
+255,all,2020,27,Toronto Metropolitan University,1.3,2,
+256,all,2020,28,Université de Sherbrooke,1.2,4,
+257,all,2020,29,Brock University,1.1,1,
+258,ai,2020,1,University of Alberta,52.8,29,/assets/alberta.jpeg
+259,ai,2020,2,University of Toronto,31.7,23,/assets/uoft.jpeg
+260,ai,2020,3,University of Waterloo,20.7,23,/assets/waterloo.jpeg
+261,ai,2020,4,University of British Columbia,16.0,16,/assets/ubc.jpeg
+262,ai,2020,5,Simon Fraser University,14.3,11,/assets/sfu.jpeg
+263,ai,2020,6,University of Montreal,12.0,8,/assets/umontreal.jpeg
+264,ai,2020,7,Carleton University,8.4,3,/assets/carleton.jpeg
+265,ai,2020,8,Université Laval,7.9,7,/assets/ulaval.jpeg
+266,ai,2020,9,University of Ottawa,6.9,4,/assets/uottawa.jpeg
+267,ai,2020,10,McGill University,5.0,7,/assets/mcgill.webp
+268,ai,2020,11,Université du Québec à Montréal,4.7,5,
+269,ai,2020,12,University of Regina,4.2,4,
+270,ai,2020,13,Queen’s University,3.2,3,/assets/queens.jpeg
+271,ai,2020,14,Western University,2.9,3,/assets/western.jpeg
+272,ai,2020,14,York University,2.9,5,/assets/york.jpeg
+273,ai,2020,16,Dalhousie University,2.4,3,/assets/dalhousie.jpeg
+274,ai,2020,16,McMaster University,2.4,3,
+275,ai,2020,16,University of Manitoba,2.4,2,/assets/umanitoba.jpeg
+276,ai,2020,16,University of Victoria,2.4,4,/assets/uvic.jpeg
+277,ai,2020,20,Toronto Metropolitan University,2.2,1,
+278,ai,2020,21,Polytechnique Montreal,1.9,1,
+279,ai,2020,21,Université de Sherbrooke,1.9,2,
+280,ai,2020,23,ETS Montreal,1.7,3,/assets/etsmontreal.avif
+281,ai,2020,24,University of Calgary,1.4,1,/assets/ucalgary.jpeg
+282,ai,2020,24,University of Guelph,1.4,2,/assets/guelph.jpeg
+283,ai,2020,26,Concordia University,1.1,1,/assets/concordia.jpeg
+284,cv,2020,1,Simon Fraser University,38.3,15,/assets/sfu.jpeg
+285,cv,2020,2,York University,26.2,6,/assets/york.jpeg
+286,cv,2020,3,University of British Columbia,24.7,12,/assets/ubc.jpeg
+287,cv,2020,4,University of Toronto,16.0,18,/assets/uoft.jpeg
+288,cv,2020,5,University of Waterloo,14.9,7,/assets/waterloo.jpeg
+289,cv,2020,6,ETS Montreal,11.2,9,/assets/etsmontreal.avif
+290,cv,2020,7,Concordia University,8.6,6,/assets/concordia.jpeg
+291,cv,2020,8,Université Laval,8.1,4,/assets/ulaval.jpeg
+292,cv,2020,9,University of Guelph,6.9,4,/assets/guelph.jpeg
+293,cv,2020,10,University of Montreal,6.8,9,/assets/umontreal.jpeg
+294,cv,2020,11,University of Alberta,5.7,5,/assets/alberta.jpeg
+295,cv,2020,12,University of Manitoba,4.3,1,/assets/umanitoba.jpeg
+296,cv,2020,13,Carleton University,3.7,2,/assets/carleton.jpeg
+297,cv,2020,14,McGill University,3.4,4,/assets/mcgill.webp
+298,cv,2020,15,Toronto Metropolitan University,2.3,1,
+299,cv,2020,16,Université de Sherbrooke,1.8,2,
+300,cv,2020,17,University of Ottawa,1.7,2,/assets/uottawa.jpeg
+301,cv,2020,18,Polytechnique Montreal,1.4,1,
+302,cv,2020,18,University of Victoria,1.4,2,/assets/uvic.jpeg
+303,cv,2020,20,Western University,1.3,2,/assets/western.jpeg
+304,cv,2020,21,Dalhousie University,1.2,1,/assets/dalhousie.jpeg
+305,ml,2020,1,University of Toronto,74.2,37,/assets/uoft.jpeg
+306,ml,2020,2,University of Montreal,65.2,15,/assets/umontreal.jpeg
+307,ml,2020,3,University of Alberta,55.6,17,/assets/alberta.jpeg
+308,ml,2020,4,University of British Columbia,37.1,21,/assets/ubc.jpeg
+309,ml,2020,5,University of Waterloo,30.6,16,/assets/waterloo.jpeg
+310,ml,2020,6,Simon Fraser University,12.4,16,/assets/sfu.jpeg
+311,ml,2020,7,McGill University,10.9,12,/assets/mcgill.webp
+312,ml,2020,8,ETS Montreal,5.6,7,/assets/etsmontreal.avif
+313,ml,2020,9,York University,5.4,5,/assets/york.jpeg
+314,ml,2020,10,Université Laval,4.5,4,/assets/ulaval.jpeg
+315,ml,2020,11,Concordia University,4.3,3,/assets/concordia.jpeg
+316,ml,2020,11,University of Guelph,4.3,3,/assets/guelph.jpeg
+317,ml,2020,13,Carleton University,4.0,2,/assets/carleton.jpeg
+318,ml,2020,14,McMaster University,3.8,3,
+319,ml,2020,15,University of Ottawa,3.7,2,/assets/uottawa.jpeg
+320,ml,2020,16,Dalhousie University,2.5,3,/assets/dalhousie.jpeg
+321,ml,2020,17,Polytechnique Montreal,2.3,2,
+322,ml,2020,17,Western University,2.3,1,/assets/western.jpeg
+323,ml,2020,19,University of Victoria,2.2,1,/assets/uvic.jpeg
+324,ml,2020,20,University of Manitoba,2.1,2,/assets/umanitoba.jpeg
+325,ml,2020,21,Université du Québec à Montréal,1.7,1,
+326,ml,2020,22,University of Calgary,1.5,1,/assets/ucalgary.jpeg
+327,ml,2020,23,Queen’s University,1.3,1,/assets/queens.jpeg
+328,ml,2020,23,University of Regina,1.3,1,
+329,ml,2020,25,University of Saskatchewan,1.1,1,/assets/usask.jpeg
+330,irnlp,2020,1,University of Waterloo,14.6,23,/assets/waterloo.jpeg
+331,irnlp,2020,2,University of Toronto,9.7,14,/assets/uoft.jpeg
+332,irnlp,2020,3,University of Alberta,7.0,8,/assets/alberta.jpeg
+333,irnlp,2020,4,McGill University,5.2,6,/assets/mcgill.webp
+334,irnlp,2020,4,University of Montreal,5.2,8,/assets/umontreal.jpeg
+335,irnlp,2020,6,Simon Fraser University,4.2,6,/assets/sfu.jpeg
+336,irnlp,2020,7,University of British Columbia,3.9,5,/assets/ubc.jpeg
+337,irnlp,2020,8,University of Ottawa,3.2,4,/assets/uottawa.jpeg
+338,irnlp,2020,9,Queen’s University,2.6,1,/assets/queens.jpeg
+339,irnlp,2020,10,Dalhousie University,1.9,2,/assets/dalhousie.jpeg
+340,irnlp,2020,10,University of New Brunswick,1.9,2,
+341,irnlp,2020,10,York University,1.9,3,/assets/york.jpeg
+342,irnlp,2020,13,Polytechnique Montreal,1.4,1,
+343,irnlp,2020,13,Western University,1.4,1,/assets/western.jpeg
+344,irnlp,2020,15,Brock University,1.3,1,
+345,irnlp,2020,16,Carleton University,1.2,1,/assets/carleton.jpeg
+346,irnlp,2020,16,University of Regina,1.2,2,
+347,irnlp,2020,16,Université du Québec à Montréal,1.2,2,
+348,hci,2020,1,University of Toronto,59.2,19,/assets/uoft.jpeg
+349,hci,2020,2,University of Waterloo,29.8,10,/assets/waterloo.jpeg
+350,hci,2020,3,University of British Columbia,17.6,10,/assets/ubc.jpeg
+351,hci,2020,4,Simon Fraser University,17.3,10,/assets/sfu.jpeg
+352,hci,2020,5,University of Saskatchewan,13.4,2,/assets/usask.jpeg
+353,hci,2020,6,University of Manitoba,11.8,4,/assets/umanitoba.jpeg
+354,hci,2020,7,University of Calgary,11.3,10,/assets/ucalgary.jpeg
+355,hci,2020,8,Carleton University,5.6,3,/assets/carleton.jpeg
+356,hci,2020,8,Queen’s University,5.6,2,/assets/queens.jpeg
+357,hci,2020,8,University of Victoria,5.6,3,/assets/uvic.jpeg
+358,hci,2020,11,University of Guelph,4.4,3,/assets/guelph.jpeg
+359,hci,2020,12,Dalhousie University,3.9,5,/assets/dalhousie.jpeg
+360,hci,2020,13,University of New Brunswick,3.4,1,
+361,hci,2020,14,Polytechnique Montreal,2.2,1,
+362,hci,2020,15,McGill University,2.0,5,/assets/mcgill.webp
+363,hci,2020,16,McMaster University,1.5,1,
+364,hci,2020,17,University of Ottawa,1.3,1,/assets/uottawa.jpeg
+365,hci,2020,18,York University,1.2,1,/assets/york.jpeg
+366,hci,2020,19,University of Alberta,1.1,1,/assets/alberta.jpeg
