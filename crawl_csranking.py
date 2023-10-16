@@ -59,27 +59,27 @@ search_criterion = [
 ]
 
 university_img_url = {
-    "University of Alberta": "/assets/alberta.jpeg",
-    "Carleton University": "/assets/carleton.jpeg",
-    "Concordia University": "/assets/concordia.jpeg",
-    "Dalhousie University": "/assets/dalhousie.jpeg",
-    "ETS Montreal": "/assets/etsmontreal.avif",
-    "University of Guelph": "/assets/guelph.jpeg",
-    "McGill University": "/assets/mcgill.webp",
-    "Queen’s University": "/assets/queens.jpeg",
-    "Simon Fraser University": "/assets/sfu.jpeg",
-    "University of British Columbia": "/assets/ubc.jpeg",
-    "University of Calgary": "/assets/ucalgary.jpeg",
-    "Université Laval": "/assets/ulaval.jpeg",
-    "University of Manitoba": "/assets/umanitoba.jpeg",
-    "University of Montreal": "/assets/umontreal.jpeg",
-    "University of Toronto": "/assets/uoft.jpeg",
-    "University of Ottawa": "/assets/uottawa.jpeg",
-    "University of Saskatchewan": "/assets/usask.jpeg",
-    "University of Victoria": "/assets/uvic.jpeg",
-    "University of Waterloo": "/assets/waterloo.jpeg",
-    "Western University": "/assets/western.jpeg",
-    "York University": "/assets/york.jpeg",
+    "University of Alberta": "./assets/alberta.jpeg",
+    "Carleton University": "./assets/carleton.jpeg",
+    "Concordia University": "./assets/concordia.jpeg",
+    "Dalhousie University": "./assets/dalhousie.jpeg",
+    "ETS Montreal": "./assets/etsmontreal.avif",
+    "University of Guelph": "./assets/guelph.jpeg",
+    "McGill University": "./assets/mcgill.webp",
+    "Queen’s University": "./assets/queens.jpeg",
+    "Simon Fraser University": "./assets/sfu.jpeg",
+    "University of British Columbia": "./assets/ubc.jpeg",
+    "University of Calgary": "./assets/ucalgary.jpeg",
+    "Université Laval": "./assets/ulaval.jpeg",
+    "University of Manitoba": "./assets/umanitoba.jpeg",
+    "University of Montreal": "./assets/umontreal.jpeg",
+    "University of Toronto": "./assets/uoft.jpeg",
+    "University of Ottawa": "./assets/uottawa.jpeg",
+    "University of Saskatchewan": "./assets/usask.jpeg",
+    "University of Victoria": "./assets/uvic.jpeg",
+    "University of Waterloo": "./assets/waterloo.jpeg",
+    "Western University": "./assets/western.jpeg",
+    "York University": "./assets/york.jpeg",
 }
 
 table_data = []
@@ -119,4 +119,4 @@ for criteria in search_criterion:
 
 table_df = pd.DataFrame(table_data, columns=["field", "time_period", 'ranking', 'university_name', "score", "faculty"])
 table_df["image_url"] = table_df["university_name"].map(university_img_url)
-table_df.to_csv("../Project/csranking_data.csv", index=True)
+table_df.to_csv("./csranking_data.csv", index=True)
